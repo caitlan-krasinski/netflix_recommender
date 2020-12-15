@@ -1,2 +1,6 @@
 # netflix_recommender
-Netflix Recommender 
+dataset from Kaggle
+
+- Kmeans clustering 
+- TfidfVectorizer
+
